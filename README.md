@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm SpaceMonkey, a Software Developer. I focus on building interesting projects that spark my curiosity.
+I'm C.I. Pragma, a Software Developer. I focus on building interesting projects that spark my curiosity.
